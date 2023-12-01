@@ -23,7 +23,7 @@
 
 **note** the InstallDir folder should be an empty folder.
 
-Example: `choco install dataspelll --params "/InstallDir:C:\your\install\path"`
+Example: `choco install dataspell --params "/InstallDir:C:\your\install\path"`
 
 ## Notes
 
