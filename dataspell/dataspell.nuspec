@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Do not remove this test for UTF-8: if “Ω” doesn’t appear as greek uppercase omega letter enclosed in quotation marks, you should use an editor that supports UTF-8, not this one. -->
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>dataspell</id>
+    <version>2023.2.5</version>
+    <owners>0xr0bert</owners>
+    <title>JetBrains DataSpell</title>
+    <authors>JetBrains</authors>
+    <projectUrl>https://www.jetbrains.com/dataspell/</projectUrl>
+    <iconUrl>http://rawcdn.githack.com/0xr0bert/dataspell-chocolatey/main/icons/dataspell.png</iconUrl>
+    <copyright>Copyright © 2023 JetBrains</copyright>
+    <licenseUrl>https://www.jetbrains.com/legal/docs/toolbox/license/</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <docsUrl>https://www.jetbrains.com/help/dataspell</docsUrl>
+    <bugTrackerUrl>https://youtrack.jetbrains.com/issues/DS</bugTrackerUrl>
+    <tags>dataspell admin jetbrains trial 30days</tags>
+    <summary>The IDE for data analysis</summary>
+    <description><![CDATA[DataSpell is a new IDE by JetBrains designed specifically for those involved in exploratory data analysis andprototyping ML models. DataSpell combines the interactivity of Jupyter notebooks with the intelligent Python and R coding assistance of PyCharm in one ergonomic environment.
+
+## Package Parameters
+- `/InstallDir:`- Installation directory, defaults to the 'Program Files (x86)\DataGrip*' directory.
+
+**note** the InstallDir folder should be an empty folder.
+
+Example: `choco install datagrip --params "/InstallDir:C:\your\install\path"`
+
+## Notes
+
+- **If the package is out of date please check [Version History](#versionhistory) for the latest submitted version. If you have a question, please ask email the maintainer. Disqus comments will generally not be responded to.**
+]]></description>
+    <dependencies>
+      <dependency id="chocolatey-core.extension" version="1.4.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>

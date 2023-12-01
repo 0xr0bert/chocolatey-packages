@@ -1,10 +1,7 @@
-~~~
-<!-- EDIT ME-->
-
-[![](https://ci.appveyor.com/api/projects/status/github/YOUR_GITHUB_USERNAME_HERE/chocolatey-packages?svg=true)](https://ci.appveyor.com/project/YOUR_GITHUB_USERNAME_HERE/chocolatey-packages)
+[![](https://ci.appveyor.com/api/projects/status/github/0xr0bert/chocolatey-packages?svg=true)](https://ci.appveyor.com/project/0xr0bert/chocolatey-packages)
 [Update status](https://gist.github.com/YOUR_GITHUB_USERNAME_HERE/YOUR_GIST_ID_HERE)
 [![](http://transparent-favicon.info/favicon.ico)](#)
-[chocolatey/YOUR_CHOCOLATEY_USERNAME_HERE](https://chocolatey.org/profiles/YOUR_CHOCOLATEY_USERNAME_HERE)
+[chocolatey/0xr0bert](https://chocolatey.org/profiles/0xr0bert)
 
 <!-- EDIT ME-->
 <!-- REMOVE THE squiggles "~" surrounding this (this should not be a code block) -->
