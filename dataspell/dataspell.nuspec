@@ -16,6 +16,7 @@
     <bugTrackerUrl>https://youtrack.jetbrains.com/issues/DS</bugTrackerUrl>
     <tags>dataspell admin jetbrains trial 30days</tags>
     <summary>The IDE for data analysis</summary>
+    <releaseNotes>https://www.jetbrains.com/dataspell/whatsnew/</releaseNotes>
     <description><![CDATA[DataSpell is a new IDE by JetBrains designed specifically for those involved in exploratory data analysis andprototyping ML models. DataSpell combines the interactivity of Jupyter notebooks with the intelligent Python and R coding assistance of PyCharm in one ergonomic environment.
 
 ## Package Parameters
