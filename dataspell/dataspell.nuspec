@@ -8,7 +8,7 @@
     <title>JetBrains DataSpell</title>
     <authors>JetBrains</authors>
     <projectUrl>https://www.jetbrains.com/dataspell/</projectUrl>
-    <iconUrl>http://rawcdn.githack.com/0xr0bert/dataspell-chocolatey/main/icons/dataspell.png</iconUrl>
+    <iconUrl>http://rawcdn.githack.com/0xr0bert/chocolatey-packages/master/dataspell/icons/dataspell.png</iconUrl>
     <copyright>Copyright © 2023 JetBrains</copyright>
     <licenseUrl>https://www.jetbrains.com/legal/docs/toolbox/license/</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
@@ -29,6 +29,7 @@ Example: `choco install datagrip --params "/InstallDir:C:\your\install\path"`
 
 - **If the package is out of date please check [Version History](#versionhistory) for the latest submitted version. If you have a question, please ask email the maintainer. Disqus comments will generally not be responded to.**
 ]]></description>
+    <packageSourceUrl>https://github.com/0xr0bert/chocolatey-packages/tree/master/dataspell</packageSourceUrl>
     <dependencies>
       <dependency id="chocolatey-core.extension" version="1.4.0" />
     </dependencies>
