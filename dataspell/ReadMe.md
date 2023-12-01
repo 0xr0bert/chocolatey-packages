@@ -3,11 +3,11 @@
 DataSpell is a new IDE by JetBrains designed specifically for those involved in exploratory data analysis andprototyping ML models. DataSpell combines the interactivity of Jupyter notebooks with the intelligent Python and R coding assistance of PyCharm in one ergonomic environment.
 
 ## Package Parameters
-- `/InstallDir:`- Installation directory, defaults to the 'Program Files (x86)\DataGrip*' directory.
+- `/InstallDir:`- Installation directory, defaults to the 'Program Files (x86)\DataSpell*' directory.
 
 **note** the InstallDir folder should be an empty folder.
 
-Example: `choco install datagrip --params "/InstallDir:C:\your\install\path"`
+Example: `choco install dataspell --params "/InstallDir:C:\your\install\path"`
 
 ## Notes
 
