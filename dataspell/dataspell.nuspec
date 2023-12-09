@@ -3,7 +3,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>dataspell</id>
-    <version>2023.2.5</version>
+    <version>2023.3</version>
     <owners>0xr0bert</owners>
     <title>JetBrains DataSpell</title>
     <authors>JetBrains</authors>

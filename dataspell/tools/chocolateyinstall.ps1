@@ -16,10 +16,10 @@ $packageArgs = @{
   packageName   = 'DataSpell'
   unzipLocation = $toolsDir
   fileType      = 'exe' #only one of these: exe, msi, msu
-  url           = 'https://download.jetbrains.com/python/dataspell-2023.2.5.exe'
+  url           = 'https://download.jetbrains.com/python/dataspell-2023.3.exe'
 
   softwareName  = 'DataSpell*' #part or all of the Display Name as you see it in Programs and Features. It should be enough to be unique
-  checksum      = 'e7b904af8e2584fb5d5a114f8bbc6a43061e0d581ce31247b6ac79cedde2a73b'
+  checksum      = '7e80caa2e50f8495e9603b91b1c11177574ee211b2458ade68f399e9a7c77113'
   checksumType  = 'sha256'
 
   silentArgs    = $silentArgs
